@@ -1,10 +1,20 @@
 # Cristanini Chassis Clean
 
-Official French product page for Cristanini Chassis Clean.
+> Mini-site français consacré au système automatique de nettoyage sous-châssis Chassis Clean, avant maintenance des véhicules routiers et du matériel ferroviaire.
 
-Canonical URL: https://chassis-clean.cristanini.fr/
-Contact: ma@cristanini.it
+Fabricant : Cristanini S.p.A., Italie. Contact commercial France : ma@cristanini.it.
+Les configurations routière et ferroviaire doivent être distinguées. Les chiffres 3–4 min pour un véhicule de 12 m, configurations 12 / 18 / 24 m et eau jusqu’à 90 °C concernent la présentation routière ; les performances dépendent de la configuration et des conditions d’exploitation.
 
-Chassis Clean is an automatic underbody cleaning system for road vehicles and railway rolling stock, designed to reduce manual work and preparation time before inspection and maintenance.
+## Pages officielles
+- [Présentation générale](https://chassis-clean.cristanini.fr/): Vue d’ensemble du produit et des deux applications.
+- [Application ferroviaire](https://chassis-clean.cristanini.fr/ferroviaire.html): Système fixe dans la fosse, passage lent de la rame, groupe technique déporté et nettoyage complémentaire des bogies en option.
+- [Application routière](https://chassis-clean.cristanini.fr/routier.html): Installation au sol ou dans une fosse, cas d’usage et données essentielles.
 
-Main page: /
+## Versions textuelles
+- [Présentation en Markdown](https://chassis-clean.cristanini.fr/index.md)
+- [Ferroviaire en Markdown](https://chassis-clean.cristanini.fr/ferroviaire.md)
+- [Routier en Markdown](https://chassis-clean.cristanini.fr/routier.md)
+- [Texte complet](https://chassis-clean.cristanini.fr/llms-full.txt)
+
+## Source du fabricant
+- [Cristanini — environnement industriel](https://cristanini.it/fr/environnement-industriel/)

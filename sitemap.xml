@@ -1,8 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://chassis-clean.cristanini.fr/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/atelier-maintenance-poids-lourds.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/camion-collecte-dechets.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/chassis-clean-ferroviaire-fosse.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/chassis-clean-poids-lourd.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/flotte-poids-lourds.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/nettoyage-manuel-poids-lourd.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/nettoyage-manuel-train-fosse.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://chassis-clean.cristanini.fr/ferroviaire.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/chassis-clean-ferroviaire-fosse.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/chassis-clean-poids-lourd.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/nettoyage-manuel-train-fosse.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://chassis-clean.cristanini.fr/routier.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/atelier-maintenance-poids-lourds.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/camion-collecte-dechets.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/chassis-clean-ferroviaire-fosse.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/chassis-clean-poids-lourd.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/flotte-poids-lourds.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chassis-clean.cristanini.fr/nettoyage-manuel-poids-lourd.webp</image:loc>
+    </image:image>
   </url>
 </urlset>
